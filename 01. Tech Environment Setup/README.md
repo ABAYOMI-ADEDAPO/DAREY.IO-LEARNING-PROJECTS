@@ -1,28 +1,30 @@
 # Tech Environments Tools
 This project is to install and set up tools needed for my deveops learning.
 
-## 1. VS-CODE INSTALLATION FOR WINDOW
- `Installed Successfully`
+## 1. VS-CODE WELCOME SCREEN
 
-.![](./img/01-Vs%20Code.png)
+.![](./img/VSCODE.png)
 
-## 2. GIT INSTALLATION
+## 2. GIT INSTALLATION CONFIRMATION
   `GIT Installed Successfully`
 
-.![](./img/02-Git.png)
+.![](./img/01-GIT%20Installation.png)
+.![](./img/02-GIT%20Operations.png)
+.![](./img/03-GIT%20OPS2.png)
 
-## 3. UBUNTU FOR WORKSTATION
- `Installed Successfully`
+## 3. ORACLE VIRTUALBOX 
 
-.![](./img/03-Ubuntu.png)
+.![](./img/VirtualBox%20Welcome%20Page.png)
+
+## 4. UBUNTU Login Prompt
+
+.![](./img/Ubuntu%20Login%20Prompt.png)
 
 ## 4. GITHUB ACCOUNT SETUP
-`Account Successfully Created`
 
-.![](./img/04-Github%20Account%20Creation.png)
+.![](./img/Github%20User%20Account%20Setup.png)
 
 ## 5. AWS ACCOUNT CREATION 
-`Account Successfully Created`
 
 .![](./img/05-AWS%20%20Account%20Creation.png)
 
