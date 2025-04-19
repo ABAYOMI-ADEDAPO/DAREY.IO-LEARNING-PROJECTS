@@ -23,4 +23,6 @@
 
  ![](/img/Git%20Command.png)
 
- 
+ ## Index.html link
+  
+  https://github.com/ABAYOMI-ADEDAPO/DAREY.IO-LEARNING-PROJECTS/blob/main/02.%20VCS%20Used%20Case/index.html
