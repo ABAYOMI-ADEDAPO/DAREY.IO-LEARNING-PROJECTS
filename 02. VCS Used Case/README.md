@@ -6,22 +6,18 @@
  ## Tom Request
  
  * Tom Pull
- 
  ![](/img/Tom%20Pull%20request.png)
 
  ## Jerry Request
 
  * Jerry Pull 
-
- ![](/img/Jerry%20Pull.png)
+![](/img/Jerry%20Pull.png)
 
  ## Merging
-
- ![](/img/Merging.png)
+![](/img/Merging.png)
 
  ## Git Command
-
- ![](/img/Git%20Command.png)
+![](/img/Git%20Command.png)
 
  ## Index.html link
   
