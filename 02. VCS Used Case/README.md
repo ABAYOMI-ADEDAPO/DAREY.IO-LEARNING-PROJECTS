@@ -19,4 +19,8 @@
 
  ![](/img/Merging.png)
 
+ ## Git Command
+
+ ![](/img/Git%20Command.png)
+
  
