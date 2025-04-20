@@ -5,19 +5,57 @@ The project involves step-by-step project to simulate workflow of Tom and Jerry 
 
 ### Part 1 Setup and Initial Configuration
 
-- Install git 
-![](./img/)
+ * Install git 
 
-- Create and Clone repository : ![create_repo](screenshots/02-git-clone.png)
+![](./img/Git%20installation%20Proof.png)
 
-- First commit - ![first_commit](screenshots/03-index-first-change.png)
+- Create and Clone repository 
+
+![](./img/Creating%20a%20New%20Repo%201.png)
+
+- First commit : 
+
+    *git status*  
+    *git commit -m "This is my first commit"*
+ 
+
+![](./img/Git%20Commit.png)
 
 ### Part 2: Simulating Tom and Jerry's Work
 
 - 1. Tom's Work:
-  - create branch ![update-navigation-branch](screenshots/05-git-branch.png)
-  - Content update ![index_update](screenshots/06-tom-change.png)
-  - Commit and push update ![push_update](screenshots/07-tom-change-push.png)
+
+  - create branch 
+
+     *git branch*  
+    *git checkout -b update-navigation*
+
+  ![](./img/Git%20Branch.png)
+
+  - Commit and push update
+
+
+     *git push origin update-navigation*
+
+  
+  ![](./img/Git%20Collaboration%201.png)
+
+
 - 2. Jerry's Work
-  - create new branch ![contact-info-branch](screenshots/08-pull-update.png)
-  - update index file ![contact-info-update](screenshots/09-jerry-updade-push.png)
+
+  - create new branch
+
+     *git checkout main*   
+    *git pull origin update-navigation*  
+     *git checkout -b add-contact-info*
+
+
+  
+  ![](./img/Git%20Pull.png)
+
+  - update index file 
+
+     *git push origin add-contact-info*
+
+  
+  ![](./img/git%20status&git%20add%20updated.png)
