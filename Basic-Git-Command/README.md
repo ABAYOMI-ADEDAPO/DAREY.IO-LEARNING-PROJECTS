@@ -5,7 +5,8 @@ The project involves step-by-step project to simulate workflow of Tom and Jerry 
 
 ### Part 1 Setup and Initial Configuration
 
-- Install git : ![git_install_proof](screenshots/01-git-version.png)
+- Install git 
+![](./img/)
 
 - Create and Clone repository : ![create_repo](screenshots/02-git-clone.png)
 
