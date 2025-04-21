@@ -59,3 +59,7 @@ The project involves step-by-step project to simulate workflow of Tom and Jerry 
 
   
   ![](./img/git%20status&git%20add%20updated.png)
+
+  ### Part 3: Merging Changes
+  
+   
