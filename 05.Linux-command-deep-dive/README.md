@@ -5,6 +5,7 @@ This Project is showcase my mastery of linux commands and their used cases.
 ## Creating a folder with Sudo
    *  mkdir /root/example
      ![](./img/Root%20directory.png)
+     ![](./img/Without%20Sudo.png)
 
 
    * sudo mkdir /root/example
@@ -36,4 +37,4 @@ This Project is showcase my mastery of linux commands and their used cases.
     ![](./img/touch.png)
     ![](./img/find.png)
 
- * Project Repo :   
+ * Project Repo :  https://github.com/ABAYOMI-ADEDAPO/DAREY.IO-LEARNING-PROJECTS/tree/main/05.Linux-command-deep-dive
