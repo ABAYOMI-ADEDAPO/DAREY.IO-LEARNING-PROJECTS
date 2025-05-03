@@ -6,6 +6,7 @@ This Project is showcase my mastery of linux commands and their used cases.
    ### mkdir /root/example
      ![](./img/Root%20directory.png)
 
+
    ### sudo mkdir /root/example
      ![](./img/With%20Sudo.png)  
 
